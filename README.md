@@ -6,7 +6,7 @@
    - 📫 How to reach me:  Twitter[@onyedicach](https://twitter.com/onyedicach) <br>
    Linkedin@[Emmanuel-Godwin](https://www.linkedin.com/in/emmanuel-godwin-a21081215/)<br>
    Instagram[@nwaminiemmy](https://www.instagram.com/nwaminiemmy/)<br>
-   Facebook[@emmanuel.nwamini.773](https://www.facebook.com/emmanuel.nwamini.773/)<br>...
+   Facebook[@emmanuel.nwamini.773](https://www.facebook.com/emmanuel.nwamini.773/)<br>
       
 <!--
 **Youngemmy5956/Youngemmy5956** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
