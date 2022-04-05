@@ -2,10 +2,11 @@
       - 🔭 I’m currently working on coinvestcryptos site ...
       - 👯 I’m looking to collaborate on laravel projects...
       - 💬 Ask me about HTML CSS JAVASCRIPT JQUERY PHP LARAVEL...
-      - 📫 How to reach me:  Twitter-@onyedicach[@onyedicach](https://twitter.com/onyedicach)
-      Linkedin-@Emmanuel-Godwin[Emmanuel-Godwin](https://www.linkedin.com/in/emmanuel-godwin-a21081215/)
-      Instagram-@nwaminiemmy/[@nwaminiemmy](https://www.instagram.com/nwaminiemmy/)
-       Facebook-@emmanuel.nwamini.773/[@emmanuel.nwamini.773](https://www.facebook.com/emmanuel.nwamini.773/)...
+      - 📫 How to reach me:  
+   Twitter-@onyedicach[Twitter-@onyedicach](https://twitter.com/onyedicach)
+Linkedin-@Emmanuel-Godwin[Emmanuel-Godwin](https://www.linkedin.com/in/emmanuel-godwin-a21081215/)
+Instagram-@nwaminiemmy/[@nwaminiemmy](https://www.instagram.com/nwaminiemmy/)
+Facebook-@emmanuel.nwamini.773/[@emmanuel.nwamini.773](https://www.facebook.com/emmanuel.nwamini.773/)
       
 <!--
 **Youngemmy5956/Youngemmy5956** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
