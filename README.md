@@ -8,7 +8,7 @@
    Instagram[@nwaminiemmy](https://www.instagram.com/nwaminiemmy/)<br>
    Facebook[@emmanuel.nwamini.773](https://www.facebook.com/emmanuel.nwamini.773/)<br>
   
-<!--    <img src="https://github-readme-stats.vercel.app/api?username=Youngemmy5956&show_icons=true&theme=tokyonight"> -->
+   <img src="https://github-readme-stats.vercel.app/api?username=Youngemmy5956&show_icons=true&theme=tokyonight">
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Youngemmy5956&layout=compact&theme=tokyonight">
 <!--
 **Youngemmy5956/Youngemmy5956** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
