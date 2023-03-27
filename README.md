@@ -24,5 +24,5 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Emmy594&label=Profile%20Views&color=1&icon=0&pretty=true)](https://visitcount.itsvg.in)
-[![](https://visitcount.itsvg.in/api?id=Youngemmy5956&icon=0&color=0)](https://visitcount.itsvg.in)
+<!-- [![](https://visitcount.itsvg.in/api?id=Youngemmy5956&icon=0&color=0)](https://visitcount.itsvg.in) -->
 <!--![](https://github-readme-stats.vercel.app/api?username=Youngemmy5956&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>--!>
