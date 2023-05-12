@@ -1,3 +1,5 @@
+![MasterHead](https://www.nclouds.com/blog/wp-content/uploads/2019/10/banner-blog17o2019.jpg)
+
 <h1 align="center">Hi 👋, I'm Nwamini Emmanuel O</h1>
 <h3 align="center">A passionate MERN/PHP LARAVEL Stack developer based in Lagos</h3>
 
