@@ -40,7 +40,6 @@
 
 
 
-<img src="https://komarev.com/ghpvc/?username=youngemmy5956&style=flat-square&color=blue" alt=""/>
 
 <!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Youngemmy5956&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact) -->
 
