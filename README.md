@@ -17,7 +17,6 @@
 
 <p align="left"> <a href="https://twitter.com/onyedicach" target="blank"><img src="https://img.shields.io/twitter/follow/onyedicach?logo=twitter&style=for-the-badge" alt="onyedicach" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://github.com/Youngemmy5956](https://github.com/Youngemmy5956)
 
 - 💬 Ask me about Web Development **React.js,Node.js,Express,Css,Html,Javascript,Tailwind,Style-component,Bootstrap etc**
 
