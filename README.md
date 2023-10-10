@@ -4,7 +4,7 @@
 
 ### Bio:
 
-A Freelancer ,Web-Developer, Software Engineer, Crypto-Trader and A Teacher
+A Freelancer Software Engineer, Open Source contributor, Crypto-Trader and A Teacher
             
 
 ### Streetcred:
