@@ -4,7 +4,7 @@
 
 ### Bio:
 
-A Freelancer Software Engineer, Open Source contributor, Crypto-Trader and A Teacher
+A Freelancer Software Engineer, Crypto-Trader and A Teacher
             
 
 ### Streetcred:
@@ -21,17 +21,12 @@ A Freelancer Software Engineer, Open Source contributor, Crypto-Trader and A Tea
 
 ### Links:
 
-### <a href="https://www.github.com/Youngemmy5956">github</a>
+### <a href="https://www.linkedin.com/in/emmanuel-godwin-a21081215/">linkedin</a> | <a href="https://www.github.com/Youngemmy5956">github</a> | <a href="">linkedin</a>
 
 ## 👇 Few things about me
 
 
 <div>
-
-            
-
-### summary
-*A Freelancer ,Web-Developer, Software Engineer, Crypto-Trader and A Teacher*
 
             
 </div>
