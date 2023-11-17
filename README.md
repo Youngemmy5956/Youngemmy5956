@@ -1,6 +1,7 @@
 
 # Hello there! 👋
 
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+there👋!;My+name+is+Nwamini+Emmanuel!;Motivated,Passionate,Fast-learner!;Fullstack+Software-Engineer.)](https://git.io/typing-svg)
 
 ### Bio:
 
