@@ -6,6 +6,8 @@
 ### Bio:
 
 A Freelancer Software Engineer, Crypto-Trader and A Teacher
+
+![](https://github-readme-stats.vercel.app/api?username=Youngemmy5956&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
             
 
 ### Streetcred:
