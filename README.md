@@ -9,7 +9,9 @@ A Freelancer Software Engineer, Crypto-Trader and A Teacher
 
 ![](https://github-readme-stats.vercel.app/api?username=Youngemmy5956&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
             
-
+## 🚀 Most Used Languages
+<!-- Add your most used languages using GitHub Readme Stats -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUNGEMMY5956&layout=compact&theme=radical)](https://github.com/YOUNGEMMY5956)
 ### Streetcred:
 
 <a href="https://www.tublian.com/profile/Youngemmy5956?ss=true"><img src="https://t74hnvwwsd.execute-api.us-east-1.amazonaws.com/dev/ft/profile/streetcred/badge/Youngemmy5956?type=without_score"></a>
