@@ -1,6 +1,6 @@
 <a href="https://www.tublian.com/profile/Youngemmy5956?ss=true"><img src="https://t74hnvwwsd.execute-api.us-east-1.amazonaws.com/dev/ft/profile/streetcred/badge/Youngemmy5956?type=without_score"></a>
 
-# Hi there and Welcome!👋, I'm NWAMINI EMMANUEL O 
+# Hi there and Welcome!👋, I'M NWAMINI EMMANUEL O 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+there👋!;My+name+is+Nwamini+Emmanuel!;Motivated,Passionate,Fast-learner!;Fullstack+Software-Engineer.)](https://git.io/typing-svg)
 
