@@ -1,7 +1,7 @@
 <a href="https://www.tublian.com/profile/Youngemmy5956?ss=true"><img src="https://t74hnvwwsd.execute-api.us-east-1.amazonaws.com/dev/ft/profile/streetcred/badge/Youngemmy5956?type=without_score"></a>
 
 <div align="center">
-  <h1>👋 Hey, I'm NWAMINI EMMANUEL O!</h1>
+  <h1>👋 Hey, I'M NWAMINI EMMANUEL O!</h1>
 
   <a href="https://git.io/typing-svg"><img
   src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=28&duration=3000&pause=1000&color=008AFA&background=193549&center=true&vCenter=true&width=500&lines=Full-stack+Web+Developer;Backend+Engineer;Nodejs+Developer"
