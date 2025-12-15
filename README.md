@@ -57,10 +57,10 @@ Hey there! I'm Emmanuel, a Freelancer Software Engineer, Crypto-Trader and A Tea
 
 ## 🚀 Stats
 <!-- Add your GitHub stats using GitHub Readme Stats -->
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUNGEMMY5956&show_icons=true&theme=radical) 
+<!--![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUNGEMMY5956&show_icons=true&theme=radical) 
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUNGEMMY5956&layout=compact&theme=radical)](https://github.com/YOUNGEMMY5956)
 
 ## 🏆 Achievements
 <!-- Add your GitHub achievements using GitHub Readme Streak Stats -->
 ![Your GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=YOUNGEMMY5956&theme=radical)
-[![trophy](https://github-profile-trophy.vercel.app/?username=YOUNGEMMY5956&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+<!--[![trophy](https://github-profile-trophy.vercel.app/?username=YOUNGEMMY5956&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
