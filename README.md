@@ -1,4 +1,4 @@
-<a href="https://www.tublian.com/profile/Youngemmy5956?ss=true"><img src="https://t74hnvwwsd.execute-api.us-east-1.amazonaws.com/dev/ft/profile/streetcred/badge/Youngemmy5956?type=without_score"></a>
+<!-- <a href="https://www.tublian.com/profile/Youngemmy5956?ss=true"><img src="https://t74hnvwwsd.execute-api.us-east-1.amazonaws.com/dev/ft/profile/streetcred/badge/Youngemmy5956?type=without_score"></a> -->
 
 <div align="center">
   <h1>👋 Hey, I'M NWAMINI EMMANUEL O!</h1>
@@ -16,21 +16,28 @@ Hey there! I'm Emmanuel, a Freelancer Software Engineer, Crypto-Trader and A Tea
 
 ## 🛠️ Skills & Tools
 <!-- Add your skills and tools as badges/icons -->
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&color=informational&logo=javascript)
-![](https://img.shields.io/badge/Code-React-informational?style=flat&color=informational&logo=react)
-![](https://img.shields.io/badge/ExpressJS-informational?style=flat&color=informational&logo=express)
-![](https://img.shields.io/badge/MongoDB-informational?style=flat&color=informational&logo=mongodb)
-![](https://img.shields.io/badge/Code-Node-informational?style=flat&color=informational&logo=node.js)
-![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&color=informational&logo=typescript)
-![](https://img.shields.io/badge/NextJS-informational?style=flat&color=informational&logo=next.js)
-![](https://img.shields.io/badge/CSS-informational?style=flat&color=informational&logo=css3)
-![](https://img.shields.io/badge/HTML-informational?style=flat&color=informational&logo=html5)
-![](https://img.shields.io/badge/Prisma-informational?style=flat&color=informational&logo=prisma)
-![](https://img.shields.io/badge/MySql-informational?style=flat&color=black&logo=mysql)
-![](https://img.shields.io/badge/GIT-informational?style=flat&color=informational&logo=git)
-![](https://img.shields.io/badge/GitHub-informational?style=flat&color=informational&logo=github)
-![](https://img.shields.io/badge/Firebase-informational?style=flat&color=informational&logo=firebase)
-![](https://img.shields.io/badge/Tailwind-CSS-informational?style=flat&color=informational&logo=tailwindcss)
+---
+
+## 🛠️ Skills & Tools
+
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript)
+![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript)
+![](https://img.shields.io/badge/Frontend-React-informational?style=flat&logo=react)
+![](https://img.shields.io/badge/Framework-Next.js-informational?style=flat&logo=next.js)
+![](https://img.shields.io/badge/Backend-Node.js-informational?style=flat&logo=node.js)
+![](https://img.shields.io/badge/Backend-Express.js-informational?style=flat&logo=express)
+![](https://img.shields.io/badge/Desktop-Electron.js-informational?style=flat&logo=electron)
+![](https://img.shields.io/badge/Database-MongoDB-informational?style=flat&logo=mongodb)
+![](https://img.shields.io/badge/Database-MySQL-informational?style=flat&logo=mysql&color=black)
+![](https://img.shields.io/badge/ORM-Prisma-informational?style=flat&logo=prisma)
+![](https://img.shields.io/badge/Cloud-Firebase-informational?style=flat&logo=firebase)
+![](https://img.shields.io/badge/Styling-TailwindCSS-informational?style=flat&logo=tailwindcss)
+![](https://img.shields.io/badge/Markup-HTML5-informational?style=flat&logo=html5)
+![](https://img.shields.io/badge/Styling-CSS3-informational?style=flat&logo=css3)
+![](https://img.shields.io/badge/VersionControl-Git-informational?style=flat&logo=git)
+![](https://img.shields.io/badge/Platform-GitHub-informational?style=flat&logo=github)
+
+---
 
 ## 🌱 I'm Currently Learning
 <!-- Add the the technologies or skills you're currently learning -->
