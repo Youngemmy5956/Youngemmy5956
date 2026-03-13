@@ -7,6 +7,8 @@
   src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=28&duration=3000&pause=1000&color=008AFA&background=193549&center=true&vCenter=true&width=500&lines=Full-stack+Web+Developer;Backend+Engineer;Nodejs+Developer"
   alt="Typing SVG" /></a>
 </div>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=youngemmy5956&label=Profile%20views&color=0e75b6&style=flat" alt="youngemmy5956" /> </p>
 <!--# Hi there and Welcome!👋, I'M NWAMINI EMMANUEL O.
 
 <!--[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+there👋!;My+name+is+Nwamini+Emmanuel!;Motivated,Passionate,Fast-learner!;Fullstack+Software-Engineer.)](https://git.io/typing-svg)..>
